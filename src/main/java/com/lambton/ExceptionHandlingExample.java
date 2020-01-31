@@ -19,7 +19,7 @@ public class ExceptionHandlingExample
             System.out.println("Length of string :" + s.length());
 
             p.setName("Anmariya");
-            p.setSalary(500);
+            p.setSalary(1500);
 
         }
         catch (ArithmeticException e)
